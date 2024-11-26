@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-This project explores the implementation and analysis of Dijkstra's algorithm using two different graph representations and priority queue structures. The goal is to evaluate the impact of these choices on the algorithm's time complexity both theoretically and empirically.
+This is a lab group project under NTU course SC2001 ALGORITHM DESIGN AND ANALYSIS. It explores the implementation and analysis of Dijkstra's algorithm using two different graph representations and priority queue structures. The goal is to evaluate the impact of these choices on the algorithm's time complexity both theoretically and empirically.
 
 ---
 
